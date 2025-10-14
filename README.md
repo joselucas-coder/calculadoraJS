@@ -25,7 +25,7 @@ A ideia era colocar em prática alguns conceitos básicos de desenvolvimento web
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-simples.git
+   git clone https://github.com/seu-usuario/calculadora-simples.git](https://github.com/joselucas-coder/calculadoraJS.git
 2.Abra o arquivo index.html no seu navegador
 
 2.Pronto! A calculadora já estará funcionando.

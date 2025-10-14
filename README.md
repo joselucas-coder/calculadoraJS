@@ -27,6 +27,6 @@ A ideia era colocar em prática alguns conceitos básicos de desenvolvimento web
    ```bash
    git clone https://github.com/joselucas-coder/calculadoraJS.git
    
- 2.Abra o arquivo index.html no seu navegador
+ 2. Abra o arquivo index.html no seu navegador
 
- 3.Pronto! A calculadora já estará funcionando.
+ 3. Pronto! A calculadora já estará funcionando.
